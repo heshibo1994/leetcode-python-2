@@ -13,14 +13,17 @@ class Solution:
         """
         a = {}
         ans = 0
-        j = 0
-        for i in range(len(s)):
-            if s[i] in a:
-                ans = max(i-j, ans)
-                nums = i
-                m = max(m,a[s[i]]+1)
-            a[s[i]] = i
-        return max(ans,len(s)-m)
+        start = -1
 
-s =Solution()
-print(s.lengthOfLongestSubstring("tmmzuxt"))
+        for i in range(len(s)):
+            if s[i] not in a:
+                a[s[i]] = -1
+            if a[s[i]]>start:
+                start = a[s[i]]
+            a[s[i]] = i
+            ans = max(ans,i-start)
+        return ans
+
+
+s = Solution()
+print(s.lengthOfLongestSubstring("aabcdefdsa"))
