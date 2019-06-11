@@ -10,7 +10,7 @@ def f(n,l):
     for i in l:
         a = float(str(i[0])+"."+str(i[1]))
         b = float(str(i[2])+"."+str(i[3]))
-        t = (max(a,b)
+        t = (max(a,b))
         if t>=1.0:
             ans = ans+[a,b]
             ans = ans+[(a+b)/n for n in range(int(t),1,-1)]
