@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0595db25-c472-48a0-b386-9c4c7570881c" name="Default" comment="2019/5/30">
-      <change beforePath="" afterPath="$PROJECT_DIR$/282. 给表达式添加运算符.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/300. 最长上升子序列.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/414. 第三大的数.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Intern_metuan.py" afterPath="$PROJECT_DIR$/Intern_metuan.py" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
-      <change beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
-      <change beforePath="$PROJECT_DIR$/test2.py" afterPath="$PROJECT_DIR$/test2.py" />
+    <list default="true" id="0595db25-c472-48a0-b386-9c4c7570881c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/3无重复字符的最长字串.py" afterPath="$PROJECT_DIR$/3无重复字符的最长字串.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,11 +23,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="414. 第三大的数.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="414. 第三大的数.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/414. 第三大的数.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="449">
               <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3无重复字符的最长字串.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3无重复字符的最长字串.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -82,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/451. 根据字符出现频率排序.py" />
         <option value="$PROJECT_DIR$/628. 三个数的最大乘积.py" />
         <option value="$PROJECT_DIR$/229. 求众数 II.py" />
         <option value="$PROJECT_DIR$/35. 搜索插入位置.py" />
@@ -133,12 +135,12 @@
         <option value="$PROJECT_DIR$/282. 给表达式添加运算符.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/414. 第三大的数.py" />
+        <option value="$PROJECT_DIR$/3无重复字符的最长字串.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="777" />
-    <option name="y" value="174" />
+    <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1030" />
   </component>
@@ -214,7 +216,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.3无重复字符的最长字串">
+    <configuration name="3无重复字符的最长字串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode-python-二刷" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3无重复字符的最长字串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="326. 3的幂" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,24 +266,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode-python-二刷" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/347. 前K个高频元素.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="412. Fizz Buzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode-python-二刷" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/412. Fizz Buzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,19 +308,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.412. Fizz Buzz" />
-      <item index="1" class="java.lang.String" itemvalue="Python.347. 前K个高频元素" />
-      <item index="2" class="java.lang.String" itemvalue="Python.326. 3的幂" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="0" class="java.lang.String" itemvalue="Python.347. 前K个高频元素" />
+      <item index="1" class="java.lang.String" itemvalue="Python.326. 3的幂" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3无重复字符的最长字串" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.326. 3的幂" />
-        <item index="3" class="java.lang.String" itemvalue="Python.347. 前K个高频元素" />
-        <item index="4" class="java.lang.String" itemvalue="Python.412. Fizz Buzz" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3无重复字符的最长字串" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.326. 3的幂" />
+        <item index="4" class="java.lang.String" itemvalue="Python.347. 前K个高频元素" />
       </list>
     </recent_temporary>
   </component>
@@ -385,21 +387,36 @@
       <option name="project" value="LOCAL" />
       <updated>1559225594127</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2019/6/11">
+      <created>1560261981802</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560261981803</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2019/6/11">
+      <created>1560264194296</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560264194296</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30520833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32552084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3081329" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.303551" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43986255" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44599304" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -416,14 +433,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2019/5/16" />
     <MESSAGE value="2019/5/30" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/5/30" />
+    <MESSAGE value="2019/6/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/6/11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/3无重复字符的最长字串.py</url>
-          <line>25</line>
+          <line>28</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -859,14 +877,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/40. 组合总和 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/39组合总和.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
@@ -1246,6 +1256,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3无重复字符的最长字串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding />
         </state>
       </provider>
