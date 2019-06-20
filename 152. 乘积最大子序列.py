@@ -15,10 +15,14 @@
 # #
 class Solution:
     def maxProduct(self, nums):
-        dp = [0]*(len(nums)+1)
-        dp[0] = nums[0]
-        for i in range(1,len(nums)):
-            dp[i] = max(dp[i-1],dp[i-1]*nums[i])
-        return dp[-1]
+        temp = []
+        ans =[]
+        for i in nums:
+            if i!=0:
+                temp.append(i)
+            else:
+                ans.append(temp)
+                temp =[]
+
 s=Solution()
-print(s.maxProduct([2,3,-2,4]))
+print(s.maxProduct([2,3,0,-2,4]))

@@ -18,15 +18,18 @@ class Solution:
         l2 = len(matrix[0])
         dp = [[0 for _ in range(l2)] for _ in range(l1)]
         print(dp)
-        dp[0][0] = matrix[0][0]
-        dp[0][1] = matrix[0][1]
-        dp[1][0] = matrix[1][0]
-        l = 0
-        for i in range(1,l1):
-            for j in range(1,l2):
+        ans = 0
+        for i in range(l1):
+            for j in range(l2):
                 if matrix[i][j] ==1:
-                    dp[i][j] = dp[i-1][j-1]+l-1
-                    l =l+1
+                    dp[i][j] =min(dp[i-1][j],dp[i][j-1],dp[i-1][j-1])+1
+                    ans = max(ans,dp[i][j])
+        return ans**2
+
+
+
+
+
 
 
 
