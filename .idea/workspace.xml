@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0595db25-c472-48a0-b386-9c4c7570881c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/139. 单词拆分.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/322. 零钱兑换.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/547. 朋友圈.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/二维数组中的查找.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/数组中重复的数字.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/152. 乘积最大子序列.py" afterPath="$PROJECT_DIR$/152. 乘积最大子序列.py" />
-      <change beforePath="$PROJECT_DIR$/221. 最大正方形.py" afterPath="$PROJECT_DIR$/221. 最大正方形.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,41 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/readme.txt">
+      <file leaf-file-name="数组中重复的数字.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/数组中重复的数字.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="288">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="152. 乘积最大子序列.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/152. 乘积最大子序列.py">
+      <file leaf-file-name="二维数组中的查找.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/二维数组中的查找.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="293">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="221. 最大正方形.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/221. 最大正方形.py">
+      <file leaf-file-name="74搜索二维矩阵.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/74搜索二维矩阵.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="322. 零钱兑换.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/322. 零钱兑换.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="972">
-              <caret line="27" column="14" lean-forward="false" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+            <state relative-caret-position="108">
+              <caret line="3" column="27" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -63,6 +50,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -80,9 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/49. 字母异位词分组.py" />
-        <option value="$PROJECT_DIR$/937. 重新排列日志文件.py" />
-        <option value="$PROJECT_DIR$/824. 山羊拉丁文.py" />
         <option value="$PROJECT_DIR$/788. 旋转数字.py" />
         <option value="$PROJECT_DIR$/python常见面试.py" />
         <option value="$PROJECT_DIR$/983. 最低票价.py" />
@@ -131,12 +116,15 @@
         <option value="$PROJECT_DIR$/152. 乘积最大子序列.py" />
         <option value="$PROJECT_DIR$/221. 最大正方形.py" />
         <option value="$PROJECT_DIR$/322. 零钱兑换.py" />
+        <option value="$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/Note.ipynb" />
+        <option value="$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/数组中重复的数字.py" />
+        <option value="$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/二维数组中的查找.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="547" />
-    <option name="width" value="1383" />
+    <option name="x" value="950" />
+    <option name="width" value="980" />
     <option name="height" value="1030" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -176,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,17 +172,42 @@
               <item name="leetcode-python-二刷" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-python-二刷" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode-python-二刷" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python-二刷" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python-二刷" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python-二刷" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="2面试需要的基础知识" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python-二刷" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python-二刷" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="2面试需要的基础知识" type="462c0819:PsiDirectoryNode" />
+              <item name="2.3数据结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python-二刷" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python-二刷" type="462c0819:PsiDirectoryNode" />
+              <item name="offer" type="462c0819:PsiDirectoryNode" />
+              <item name="2面试需要的基础知识" type="462c0819:PsiDirectoryNode" />
+              <item name="2.3数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="2.3.1数组" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/海丰/学生/魏凤仙/魏凤仙交接/魏凤仙交接/人脸识别项目" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/leetcode-python-二刷/539. 最小时间差.py&#10;0&#9;FILE&#9;file://D:/leetcode-python-二刷/100相同的树.py" />
   </component>
   <component name="PyDebuggerOptionsProvider">
@@ -211,7 +225,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.322. 零钱兑换">
+  <component name="RunManager" selected="Python.二维数组中的查找">
+    <configuration name="数组中重复的数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode-python-二刷" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/数组中重复的数字.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="139. 单词拆分" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,6 +257,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode-python-二刷" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/139. 单词拆分.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="二维数组中的查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode-python-二刷" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/二维数组中的查找.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,56 +316,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="532. 数组中的K-diff数对" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode-python-二刷" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/532. 数组中的K-diff数对.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="712. 两个字符串的最小ASCII删除和" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode-python-二刷" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/712. 两个字符串的最小ASCII删除和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.532. 数组中的K-diff数对" />
-      <item index="1" class="java.lang.String" itemvalue="Python.712. 两个字符串的最小ASCII删除和" />
-      <item index="2" class="java.lang.String" itemvalue="Python.139. 单词拆分" />
-      <item index="3" class="java.lang.String" itemvalue="Python.221. 最大正方形" />
-      <item index="4" class="java.lang.String" itemvalue="Python.322. 零钱兑换" />
+      <item index="0" class="java.lang.String" itemvalue="Python.139. 单词拆分" />
+      <item index="1" class="java.lang.String" itemvalue="Python.221. 最大正方形" />
+      <item index="2" class="java.lang.String" itemvalue="Python.322. 零钱兑换" />
+      <item index="3" class="java.lang.String" itemvalue="Python.数组中重复的数字" />
+      <item index="4" class="java.lang.String" itemvalue="Python.二维数组中的查找" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.322. 零钱兑换" />
-        <item index="1" class="java.lang.String" itemvalue="Python.221. 最大正方形" />
-        <item index="2" class="java.lang.String" itemvalue="Python.139. 单词拆分" />
-        <item index="3" class="java.lang.String" itemvalue="Python.712. 两个字符串的最小ASCII删除和" />
-        <item index="4" class="java.lang.String" itemvalue="Python.532. 数组中的K-diff数对" />
+        <item index="0" class="java.lang.String" itemvalue="Python.二维数组中的查找" />
+        <item index="1" class="java.lang.String" itemvalue="Python.数组中重复的数字" />
+        <item index="2" class="java.lang.String" itemvalue="Python.322. 零钱兑换" />
+        <item index="3" class="java.lang.String" itemvalue="Python.221. 最大正方形" />
+        <item index="4" class="java.lang.String" itemvalue="Python.139. 单词拆分" />
       </list>
     </recent_temporary>
   </component>
@@ -417,22 +431,29 @@
       <option name="project" value="LOCAL" />
       <updated>1560869633366</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2019/6/20">
+      <created>1561040345975</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561040345975</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09583333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30584192" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30126002" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4513173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29095075" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -452,7 +473,8 @@
     <MESSAGE value="2019/6/13" />
     <MESSAGE value="2019/6/17" />
     <MESSAGE value="2019/6/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/6/18" />
+    <MESSAGE value="2019/6/20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/6/20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -912,6 +934,16 @@
           <line>28</line>
           <option name="timeStamp" value="147" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/数组中重复的数字.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/二维数组中的查找.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -920,43 +952,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="148" />
+      <option name="time" value="150" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/541. 反转字符串 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/583. 两个字符串的删除操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python常见面试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="47" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/459. 重复的子字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/345. 反转字符串中的元音字母.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="737">
@@ -1267,22 +1267,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/152. 乘积最大子序列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -1300,8 +1284,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/221. 最大正方形.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        <state relative-caret-position="432">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/152. 乘积最大子序列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/Note.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/数组中重复的数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/74搜索二维矩阵.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer/2面试需要的基础知识/2.3数据结构/2.3.1数组/二维数组中的查找.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding />
         </state>
       </provider>
