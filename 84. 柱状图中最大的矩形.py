@@ -25,10 +25,17 @@
 #
 class Solution:
     def largestRectangleArea(self, heights):
-        dp = [0]*(len(heights)+1)
-        dp[1] = heights[0]
-        for i in range(2,len(heights)):
-            dp[i] = max(dp[i-1],heights[i]*)
+        start = 0
+        end = len(heights)
+        ans = 0
+        while start<=end:
+            temp = min(heights[start:end])*(end-start)
+            if temp>ans:
+                ans = temp
+            else:
+                end = end-1
+                start = start+1
+        return ans
 s=Solution()
 print(s.largestRectangleArea([2, 1, 5, 6, 2, 3]))
 

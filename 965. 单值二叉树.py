@@ -8,8 +8,15 @@
 #         self.left = None
 #         self.right = None
 
-class Solution:
+
+
+class Solution(object):
     def isUnivalTree(self, root):
-        if root is None:
-            return True
-        if root.val ==
+        vals = []
+        def dfs(node):
+            if node:
+                vals.append(node.val)
+                dfs(node.left)
+                dfs(node.right)
+        dfs(root)
+        return len(set(vals)) == 1
