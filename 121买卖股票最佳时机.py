@@ -16,14 +16,14 @@ class Solution:
         :type prices: List[int]
         :rtype: int
         """
-        dp = [0] *len(prices)
-        dp[0] =0
-        if prices[1]>prices[0]:
-            dp[1] = prices[1]-prices[0]
-        else:
-            dp[1] = 0
-        for i in range(2,len(prices)):
-            dp[i] = max(dp[i-1],prices[i]-min(prices[:i]))
-        return dp[-1]
+        dp = [[0,0] for i in range(len(prices))]
+        dp[0][0] = 0
+        dp[0][1] = -prices[0]
+        for i in range(1,len(prices)):
+            dp[i][0] = max(dp[i-1][0],dp[i-1][1]+prices[i])
+            dp[i][1] = max(dp[i-1][1],-prices[i])
+        return dp[len(prices)-1][0]
+
+
 s=Solution()
-print(s.maxProfit([7,5,4]))
+print(s.maxProfit([7,1,5,3,6,4]))

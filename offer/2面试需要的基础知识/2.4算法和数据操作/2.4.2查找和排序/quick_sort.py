@@ -1,11 +1,11 @@
-def quick_sort1(l):
-    if len(l) < 2:
-        return l
-    else:
-        pivot = l[0]  # 设定基数
-        less_than_pivot = [x for x in l if x < pivot]
-        more_than_pivot = [y for y in l if y > pivot]
-        return quick_sort1(less_than_pivot) + [pivot] + quick_sort1(more_than_pivot)
+# def quick_sort1(l):
+#     if len(l) < 2:
+#         return l
+#     else:
+#         pivot = l[0]  # 设定基数
+#         less_than_pivot = [x for x in l if x < pivot]
+#         more_than_pivot = [y for y in l if y > pivot]
+#         return quick_sort1(less_than_pivot) + [pivot] + quick_sort1(more_than_pivot)
 def fun(l, start, end):
     if start < end:
         i = start
