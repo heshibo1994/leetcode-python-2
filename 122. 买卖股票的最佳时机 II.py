@@ -27,15 +27,15 @@
 #
 class Solution:
     def maxProfit(self, prices):
-        start = prices[0]
-        ans =0
-        for i in range(len(prices)-1):
-            if prices[i+1]<=prices[i]:
-                ans =ans+prices[i]-start
-                start = prices[i+1]
-        if prices[-1]>prices[-2]:
-            ans =ans+prices[-1]-start
-        return ans
+        if prices ==[]:
+            return 0
+        dp = [[0,0] for i in range(len(prices))]
+        dp[0][0] = 0
+        dp[0][1] = -prices[0]
+        for i in range(1, len(prices)):
+            dp[i][0] = max(dp[i-1][0], dp[i-1][1]+prices[i])
+            dp[i][1] = max(dp[i-1][1], dp[i-1][0]-prices[i])
+        return dp[len(prices)-1][0]
 s=Solution()
 print(s.maxProfit([1,9,6,9,1,7,1,1,5,9,9,9]))
 
