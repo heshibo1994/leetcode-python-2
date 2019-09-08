@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0595db25-c472-48a0-b386-9c4c7570881c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/1089.复写零.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1108. IP 地址无效化.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1122. 数组的相对排序.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1169. 查询无效交易.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/1170. 比较字符串最小字母出现频次.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/22. 括号生成.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/60. 第k个排列.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/950. 按递增顺序显示卡牌.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_aiqiyi1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_aiqiyi2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_aiqiyi3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_aiqiyi4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_aiqiyi5.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/152. 乘积最大子序列.py" afterPath="$PROJECT_DIR$/152. 乘积最大子序列.py" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -555,11 +540,19 @@
       <option name="project" value="LOCAL" />
       <updated>1567608586863</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="2019/9/8">
+      <created>1567954588101</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1567954588101</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -596,7 +589,8 @@
     <MESSAGE value="2019/8/23" />
     <MESSAGE value="2019/8/28" />
     <MESSAGE value="2019/9/4" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/9/4" />
+    <MESSAGE value="2019/9/8" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/9/8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
