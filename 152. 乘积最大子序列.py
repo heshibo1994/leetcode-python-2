@@ -13,16 +13,22 @@
 # 解释: 结果不能为 2, 因为 [-2,-1] 不是子数组。
 #
 # #
+import sys
+
+
 class Solution:
     def maxProduct(self, nums):
-        temp = []
-        ans =[]
-        for i in nums:
-            if i!=0:
-                temp.append(i)
-            else:
-                ans.append(temp)
-                temp =[]
+        maxList = 0
+        imax = 1
+        imin = 1
+        for i in range(len(nums)):
+            if nums[i] < 0:
+                imax, imin = imin, imax
+            imax = max(imax * nums[i], nums[i])
+            imin = min(imin * nums[i], nums[i])
+            maxList = max(maxList, imax)
+        return maxList
 
-s=Solution()
-print(s.maxProduct([2,3,0,-2,4]))
+
+s = Solution()
+print(s.maxProduct([-2, 3, -4]))
