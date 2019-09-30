@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0595db25-c472-48a0-b386-9c4c7570881c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/1160. 拼写单词.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_meituan_1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_meituan_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_meituan_3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_wangyi1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Intern_wangyi2.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/233. 数字 1 的个数.py" afterPath="$PROJECT_DIR$/233. 数字 1 的个数.py" />
-      <change beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Intern_meituan_3.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Intern_meituan_3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Intern_meituan_3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="593">
               <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aruco.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Volume/Marker/aruco.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -193,6 +195,17 @@
             <path>
               <item name="leetcode-python-二刷" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-python-二刷" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python-二刷" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python-二刷" type="462c0819:PsiDirectoryNode" />
+              <item name="Volume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-python-二刷" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-python-二刷" type="462c0819:PsiDirectoryNode" />
+              <item name="Volume" type="462c0819:PsiDirectoryNode" />
+              <item name="Marker" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -527,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567954603352</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2019/9/30">
+      <created>1569812111611</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1569812111612</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -569,7 +589,8 @@
     <MESSAGE value="2019/8/28" />
     <MESSAGE value="2019/9/4" />
     <MESSAGE value="2019/9/8" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/9/8" />
+    <MESSAGE value="2019/9/30" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/9/30" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1295,6 +1316,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Volume/Marker/aruco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
