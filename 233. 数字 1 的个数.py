@@ -9,13 +9,16 @@
 # 来源：力扣（LeetCode）
 # 链接：https://leetcode-cn.com/problems/number-of-digit-one
 # 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
-class Solution(object):
-    def countDigitOne(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        while(n):
-            n
-s = Solution()
-print(s.countDigitOne(12345))
+# class Solution(object):
+#     def countDigitOne(self, n):
+#         """
+#         :type n: int
+#         :rtype: int
+#         """
+#         for i
+# s = Solution()
+# print(s.countDigitOne())
+count = 0
+for i in range(0,700):
+    count += str(i).count("1")
+print(count)
